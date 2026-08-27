@@ -50,3 +50,7 @@ coverage/
 # Misc
 *.pem
 .vercel
+.ai-workflow/
+.agent/
+.agents/
+Agent_Outputs/
